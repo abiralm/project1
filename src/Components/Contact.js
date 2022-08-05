@@ -10,10 +10,7 @@ export default function Contact() {
                 <h2>Send your queries below</h2>
             </div>
             <div>
-                <form action="/action_page.php">
-                    <input type="text" id="fname" name="firstname" placeholder="Your query..." />
-                </form>
-                <button></button>
+                <form action="/action_page.php" />
             </div>
 
         </div>

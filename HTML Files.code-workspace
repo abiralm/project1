@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:\\HTML Files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML Files",
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
